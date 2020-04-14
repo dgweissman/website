@@ -75,7 +75,7 @@ Teaching asssistant at UC Davis
 - Psychology 142/Human Development 102: Social and Emotional Development (Winter 2015)
 
 Instructor at the Prison University Program
--Psychology 221: General Psychology (Spring 2016)
+- Psychology 221: General Psychology (Spring 2016)
 
 Public Education Specialist at the East Bay Academy for Young Scientists (2011-2013)
 
