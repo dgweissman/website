@@ -24,7 +24,7 @@ bio: "I am a developmental cognitive neuroscientist studying neural mechanisms t
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:dweissman@fas.harvard.edu".
+  link: mailto:dweissman@fas.harvard.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/dgweissman
