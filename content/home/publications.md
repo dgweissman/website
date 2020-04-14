@@ -66,7 +66,16 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+1. Weissman, D. G., Nook, E. C., Dews, A. A., Miller, A. B, Lambert, H. K., Sasse, S. F., Somerville, L. H., McLaughlin, K. A. (in press). Low emotional awareness as a transdiagnostic mechanism underlying psychopathology in adolescence. Clinical Psychological Science. https://doi.org/10.31234/osf.io/49a6h 
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+1. McLaughlin, K. A., Colich, N. L., Rodman, A. M., Weissman, D. G., (2020) Mechanisms linking childhood trauma exposure and psychopathology: a transdiagnostic model of risk and resilience. BMC Medicine. https://doi.org/10.1186/s12916-020-01561-6
+
+2. McLaughlin, K. A., Weissman, D. G., Bitran, D. (2019) Childhood adversity and neural development: a systematic review. Annual Review of Developmental Psychology. https://doi.org/10.1146/annurev-devpsych-121318-084950
+
+3. Weissman, D. G., Jenness, J. L., Colich, N. L., Miller, A. B., Sambrook, K. A., Sheridan, M. A., & McLaughlin, K. A. (2019). Altered neural processing of threat-related information in children and adolescents exposed to violence: A transdiagnostic mechanism contributing to the emergence of psychopathology. Journal of the American Academy of Child & Adolescent Psychiatry. https://doi.org/10.1016/j.jaac.2019.08.471
+
+4. Weissman, D. G., Guyer, A. E., Ferrer, E., Robins, R. W., & Hastings, P. D. (2019). Tuning of brain-autonomic coupling by prior threat exposure: Implications for internalizing problems in Mexican-origin adolescents. Development and Psychopathology. https://doi.org/10.1017/S0954579419000646
+
+5. Weissman, D. G., Bitran, D., Miller, A. B., Schaefer, J. D., Sheridan, M. A., & Mclaughlin, K. A. (2019). Difficulties with emotion regulation as a transdiagnostic mechanism linking child maltreatment with the emergence of psychopathology. Development and Psychopathology. https://doi.org/10.1017/S0954579419000348
+
+[full list of publications]({{< ref "/publication/_index.md" >}})
