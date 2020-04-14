@@ -18,7 +18,8 @@ organizations:
   url: "https://sdlab.fas.harvard.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "I am a developmental cognitive neuroscientist studying neural mechanisms that explain how childhood trauma impacts emotion functioning in adolescence."
+bio: 
+-I am a developmental cognitive neuroscientist studying neural mechanisms that explain how childhood trauma impacts emotion functioning in adolescence.
 
 # Social/Academic Networking
 social:
