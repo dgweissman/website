@@ -66,7 +66,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-1. Weissman, D. G., Nook, E. C., Dews, A. A., Miller, A. B, Lambert, H. K., Sasse, S. F., Somerville, L. H., McLaughlin, K. A. (in press). Low emotional awareness as a transdiagnostic mechanism underlying psychopathology in adolescence. Clinical Psychological Science. https://doi.org/10.31234/osf.io/49a6h 
 
 1. McLaughlin, K. A., Colich, N. L., Rodman, A. M., Weissman, D. G., (2020) Mechanisms linking childhood trauma exposure and psychopathology: a transdiagnostic model of risk and resilience. BMC Medicine. https://doi.org/10.1186/s12916-020-01561-6
 
