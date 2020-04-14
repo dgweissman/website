@@ -18,16 +18,13 @@ organizations:
   url: "https://sdlab.fas.harvard.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a developmental cognitive neuroscientist studying neural mechanisms that explain how childhood trauma impacts emotion functioning in adolescence.
+bio: "I am a developmental cognitive neuroscientist studying neural mechanisms that explain how childhood trauma impacts emotion functioning in adolescence."
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:dweissman@fas.harvard.edu".
+  link: "mailto:dweissman@fas.harvard.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/dgweissman
