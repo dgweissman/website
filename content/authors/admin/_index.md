@@ -35,4 +35,4 @@ social:
   icon_pack: ai
   link: files/cv.pdf
 ---
-I am a developmental cognitive neuroscientist studying neural mechanisms that explain how childhood trauma impacts emotion functioning in adolescence.
+I am a developmental cognitive neuroscientist studying neural mechanisms that explain how childhood trauma impacts emotion functioning in adolescence and contributes to the development of psychopathology. My research interests and pedagogical philosophy are informed by my education and training in Neuroscience in Developmental Psychology and my experiences as a middle school teacher.
