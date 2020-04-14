@@ -15,12 +15,12 @@
   
 [[main]]
   name = "Code"
-  url = "#posts"
+  url = "https://github.com/dgweissman"
   weight = 30
 
 [[main]]
   name = "Teaching"
-  url = "#featured"
+  url = "#teaching"
   weight = 40
 
 # Link to a PDF of your resume/CV from the menu.
