@@ -2,9 +2,9 @@
 title: Publications
 ---
 
-1. Weissman, D. G., Lambert, H. K., Rodman, A. M., Peverill, M., Sheridan, M. A., McLaughlin, K. A. (under review). Reduced hippocampal and amygdala volumes as mechanisms of stress sensitization to depression following childhood violence exposure. https://doi.org/10.1101/798033
+1. Weissman, D. G., Mendes, W. B. (under review). Patterns and individual differences in the coordination of sympathetic and parasympathetic nervous system activity during rest and acute stress tasks. https://doi.org/10.1101/753657
 
-2. Weissman, D. G., Mendes, W. B. (under review). Patterns and individual differences in the coordination of sympathetic and parasympathetic nervous system activity during rest and acute stress tasks. https://doi.org/10.1101/753657
+2. Weissman, D. G., Lambert, H. K., Rodman, A. M., Peverill, M., Sheridan, M. A., McLaughlin, K. A. (in press). Reduced hippocampal and amygdala volume as a mechanism underlying stress sensitization to depression following childhood trauma. Depression and Anxiety. https://doi.org/10.1101/798033
 
 3. Ugarte, E., Narea, M., Aldoney, D., Weissman, D. G., Hastings, P. D. (in press) Family risk and externalizing problems in Chilean children: mediation by harsh parenting and emotional support. Child Development. 
 
