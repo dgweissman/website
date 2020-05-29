@@ -8,9 +8,9 @@ title: Publications
 
 3. Ugarte, E., Narea, M., Aldoney, D., Weissman, D. G., Hastings, P. D. (in press) Family risk and externalizing problems in Chilean children: mediation by harsh parenting and emotional support. Child Development. 
 
-4. Chahal, R., Weissman, D. G., Hallquist, M. N., Robins, R. W., Hastings, P. D., Guyer, A. E. (in press) Neural Connectivity Biotypes: Associations with Internalizing Problems throughout Adolescence. Psychological Medicine
+4. Weissman, D. G., Nook, E. C., Dews, A. A., Miller, A. B, Lambert, H. K., Sasse, S. F., Somerville, L. H., McLaughlin, K. A. (in press). Low emotional awareness as a transdiagnostic mechanism underlying psychopathology in adolescence. Clinical Psychological Science. https://doi.org/10.31234/osf.io/49a6h 
 
-5. Weissman, D. G., Nook, E. C., Dews, A. A., Miller, A. B, Lambert, H. K., Sasse, S. F., Somerville, L. H., McLaughlin, K. A. (in press). Low emotional awareness as a transdiagnostic mechanism underlying psychopathology in adolescence. Clinical Psychological Science. https://doi.org/10.31234/osf.io/49a6h 
+5. Chahal, R., Weissman, D. G., Hallquist, M. N., Robins, R. W., Hastings, P. D., Guyer, A. E. (2020) Neural connectivity biotypes: associations with internalizing problems throughout Adolescence. Psychological Medicine. https://doi.org/10.1017/S003329172000149X
 
 6. McLaughlin, K. A., Colich, N. L., Rodman, A. M., Weissman, D. G., (2020) Mechanisms linking childhood trauma exposure and psychopathology: a transdiagnostic model of risk and resilience. BMC Medicine. https://doi.org/10.1186/s12916-020-01561-6
 
