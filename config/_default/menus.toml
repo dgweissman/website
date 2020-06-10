@@ -17,15 +17,20 @@
   name = "Teaching"
   url = "#posts"
   weight = 30
+  
+[[main]]
+  name = "Diversity and Inclusion"
+  url = "#posts2"
+  weight = 40
 
 [[main]]
   name = "Code"
   url = "https://github.com/dgweissman"
-  weight = 40
+  weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
     name = "CV"
     url = "files/cv.pdf"
-    weight = 50
+    weight = 60
