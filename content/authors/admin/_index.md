@@ -39,4 +39,4 @@ I am a developmental cognitive neuroscientist studying neural mechanisms that ex
 
 I'm particularly interested in how exposure to violence may impact the functioning of brain networks involved in the percpetion of bodily states and the representation and conceptualization of discrete emotions.
 
-My research interests and pedagogical philosophy are informed by my education and training in Neuroscience in Developmental Psychology and my experiences as a middle school teacher.
+My research interests and pedagogical philosophy are informed by my education and training in Neuroscience in Developmental Psychology and my experiences as a middle school science teacher in a high poverty setting.
