@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Teaching"
+title = "Diversity and Inclusion"
 subtitle = ""
 
 [content]
@@ -67,5 +67,5 @@ subtitle = ""
  css_class = ""
 +++
 
-As a white, cisgendered, heterosexual male, I recognize that my identity and outward presentation have garnered me unearned and unfair priveleges in academia and in the world at large. 
-As a scientist, teacher, member of a University community, citizen, and father, I am committed to doing my part to confront my own biases, to reform and dismantle oppressive systems, and to befriend, mentor, learn from, cite, listen to, and elevate the voices of underrepresented and marginalized people, students, and scholars.
+As a white, cisgendered, heterosexual male, I recognize that my identity and outward presentation have garnered me unearned and unfair privileges in academia and in the world at large. 
+As a scientist, teacher, member of a University community, citizen, and father, I am committed to confronting my own biases, doing my part to reform and dismantle oppressive systems, and to befriend, mentor, learn from, cite, listen to, and elevate the voices of underrepresented and marginalized people, students, and scholars.
