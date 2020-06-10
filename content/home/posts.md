@@ -67,7 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 
-As a secondary science and substitute teacher, a university teaching assistant and guest lecturer, and a college Psychology instructor at San Quentin prison, I have taught a full breadth of possible academic disciplines to students from age 7 to 70, who have been diverse in every conceivable way. This experience gives me the perspective, knowledge, and confidence to apply a diverse, multimodal, practical, and interactive pedagogy at the university level. 
+As a secondary science and substitute teacher, a university teaching assistant and guest lecturer, and a college Psychology instructor at San Quentin prison, I have taught a full breadth of possible academic disciplines to students from age 7 to 70, who have been diverse in every conceivable way. This experience gives me the perspective, knowledge, and confidence to apply a diverse, multimodal, inclusive, practical, and interactive pedagogy at the university level. 
 
 ## Experience: 
 
