@@ -15,12 +15,12 @@
 
 [[main]]
   name = "Teaching"
-  url = "#posts"
+  url = "#teaching"
   weight = 30
   
 [[main]]
   name = "Diversity and Inclusion"
-  url = "#posts2"
+  url = "#diversity"
   weight = 40
 
 [[main]]
