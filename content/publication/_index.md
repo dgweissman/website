@@ -4,11 +4,11 @@ title: Publications
 
 1. Weissman, D. G., Mendes, W. B. (under review). Patterns and individual differences in the coordination of sympathetic and parasympathetic nervous system activity during rest and acute stress tasks. https://doi.org/10.1101/753657
 
-2. Weissman, D. G., Lambert, H. K., Rodman, A. M., Peverill, M., Sheridan, M. A., McLaughlin, K. A. (in press). Reduced hippocampal and amygdala volume as a mechanism underlying stress sensitization to depression following childhood trauma. Depression and Anxiety. https://doi.org/10.1101/798033
+2. Ugarte, E., Narea, M., Aldoney, D., Weissman, D. G., Hastings, P. D. (in press) Family risk and externalizing problems in Chilean children: mediation by harsh parenting and emotional support. Child Development. 
 
-3. Ugarte, E., Narea, M., Aldoney, D., Weissman, D. G., Hastings, P. D. (in press) Family risk and externalizing problems in Chilean children: mediation by harsh parenting and emotional support. Child Development. 
+3. Weissman, D. G., Nook, E. C., Dews, A. A., Miller, A. B, Lambert, H. K., Sasse, S. F., Somerville, L. H., McLaughlin, K. A. (in press). Low emotional awareness as a transdiagnostic mechanism underlying psychopathology in adolescence. Clinical Psychological Science. https://doi.org/10.31234/osf.io/49a6h 
 
-4. Weissman, D. G., Nook, E. C., Dews, A. A., Miller, A. B, Lambert, H. K., Sasse, S. F., Somerville, L. H., McLaughlin, K. A. (in press). Low emotional awareness as a transdiagnostic mechanism underlying psychopathology in adolescence. Clinical Psychological Science. https://doi.org/10.31234/osf.io/49a6h 
+4. Weissman, D. G., Lambert, H. K., Rodman, A. M., Peverill, M., Sheridan, M. A., McLaughlin, K. A. (2020). Reduced hippocampal and amygdala volume as a mechanism underlying stress sensitization to depression following childhood trauma. Depression and Anxiety. https://doi.org/10.1002/da.23062
 
 5. Chahal, R., Weissman, D. G., Hallquist, M. N., Robins, R. W., Hastings, P. D., Guyer, A. E. (2020) Neural connectivity biotypes: associations with internalizing problems throughout Adolescence. Psychological Medicine. https://doi.org/10.1017/S003329172000149X
 
