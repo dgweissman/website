@@ -67,9 +67,9 @@ subtitle = ""
  css_class = ""
 +++
 
-1. Weissman, D. G., Lambert, H. K., Rodman, A. M., Peverill, M., Sheridan, M. A., McLaughlin, K. A. (2020). Reduced hippocampal and amygdala volume as a mechanism underlying stress sensitization to depression following childhood trauma. Depression and Anxiety. https://doi.org/10.1002/da.23062
+1. Weissman, D. G., Nook, E. C., Dews, A. A., Miller, A. B, Lambert, H. K., Sasse, S. F., Somerville, L. H., McLaughlin, K. A. (in press). Low emotional awareness as a transdiagnostic mechanism underlying psychopathology in adolescence. Clinical Psychological Science. https://doi.org/10.1177/2167702620923649
 
-2. McLaughlin, K. A., Colich, N. L., Rodman, A. M., Weissman, D. G., (2020) Mechanisms linking childhood trauma exposure and psychopathology: a transdiagnostic model of risk and resilience. BMC Medicine. https://doi.org/10.1186/s12916-020-01561-6
+2. Weissman, D. G., Lambert, H. K., Rodman, A. M., Peverill, M., Sheridan, M. A., McLaughlin, K. A. (2020). Reduced hippocampal and amygdala volume as a mechanism underlying stress sensitization to depression following childhood trauma. Depression and Anxiety. https://doi.org/10.1002/da.23062
 
 3. McLaughlin, K. A., Weissman, D. G., Bitran, D. (2019) Childhood adversity and neural development: a systematic review. Annual Review of Developmental Psychology. https://doi.org/10.1146/annurev-devpsych-121318-084950
 
