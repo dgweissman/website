@@ -6,7 +6,7 @@ title: Publications
 
 2. Ugarte, E., Narea, M., Aldoney, D., Weissman, D. G., Hastings, P. D. (in press) Family risk and externalizing problems in Chilean children: mediation by harsh parenting and emotional support. Child Development. 
 
-3. Weissman, D. G., Nook, E. C., Dews, A. A., Miller, A. B, Lambert, H. K., Sasse, S. F., Somerville, L. H., McLaughlin, K. A. (in press). Low emotional awareness as a transdiagnostic mechanism underlying psychopathology in adolescence. Clinical Psychological Science. https://doi.org/10.31234/osf.io/49a6h 
+3. Weissman, D. G., Nook, E. C., Dews, A. A., Miller, A. B, Lambert, H. K., Sasse, S. F., Somerville, L. H., McLaughlin, K. A. (2020). Low emotional awareness as a transdiagnostic mechanism underlying psychopathology in adolescence. Clinical Psychological Science. https://doi.org/10.1177/2167702620923649
 
 4. Weissman, D. G., Lambert, H. K., Rodman, A. M., Peverill, M., Sheridan, M. A., McLaughlin, K. A. (2020). Reduced hippocampal and amygdala volume as a mechanism underlying stress sensitization to depression following childhood trauma. Depression and Anxiety. https://doi.org/10.1002/da.23062
 
@@ -14,7 +14,7 @@ title: Publications
 
 6. McLaughlin, K. A., Colich, N. L., Rodman, A. M., Weissman, D. G., (2020) Mechanisms linking childhood trauma exposure and psychopathology: a transdiagnostic model of risk and resilience. BMC Medicine. https://doi.org/10.1186/s12916-020-01561-6
 
-7. Chahal, R., Weissman, D. G., Marek, S., Rhoads, S. A., Hipwell, A. E., Forbes, E. E., Keenan, K., Guyer, A. E., (2019). Girls’ Brain Structural Connectivity in Late Adolescence Relates to History of Depression Symptoms. Journal of Child Psychology and Psychiatry. htttps://doi.org10.1111/jcpp.13184
+7. Chahal, R., Weissman, D. G., Marek, S., Rhoads, S. A., Hipwell, A. E., Forbes, E. E., Keenan, K., Guyer, A. E., (2019). Girls’ Brain Structural Connectivity in Late Adolescence Relates to History of Depression Symptoms. Journal of Child Psychology and Psychiatry. https://doi.org/10.1111/jcpp.13184
 
 8. McLaughlin, K. A., Weissman, D. G., Bitran, D. (2019) Childhood adversity and neural development: a systematic review. Annual Review of Developmental Psychology. https://doi.org/10.1146/annurev-devpsych-121318-084950
 
