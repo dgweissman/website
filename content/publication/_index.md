@@ -4,7 +4,7 @@ title: Publications
 
 1. Weissman, D. G., Mendes, W. B. (under review). Patterns and individual differences in the coordination of sympathetic and parasympathetic nervous system activity during rest and acute stress tasks. https://doi.org/10.1101/753657
 
-2. Ugarte, E., Narea, M., Aldoney, D., Weissman, D. G., Hastings, P. D. (in press) Family risk and externalizing problems in Chilean children: mediation by harsh parenting and emotional support. Child Development. 
+2. Ugarte, E., Narea, M., Aldoney, D., Weissman, D. G., Hastings, P. D. (2020) Family risk and externalizing problems in Chilean children: mediation by harsh parenting and emotional support. Child Development. https://doi.org/10.1111/cdev.13464
 
 3. Weissman, D. G., Nook, E. C., Dews, A. A., Miller, A. B, Lambert, H. K., Sasse, S. F., Somerville, L. H., McLaughlin, K. A. (2020). Low emotional awareness as a transdiagnostic mechanism underlying psychopathology in adolescence. Clinical Psychological Science. https://doi.org/10.1177/2167702620923649
 
