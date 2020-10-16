@@ -2,7 +2,7 @@
 title: Publications
 ---
 
-1. Weissman, D. G., Mendes, W. B. (under review). Patterns and individual differences in the coordination of sympathetic and parasympathetic nervous system activity during rest and acute stress tasks. https://doi.org/10.1101/753657
+1. Weissman, D. G., Mendes, W. B. (under review). Correlation of sympathetic and parasympathetic nervous system activity during rest and acute stress tasks. https://doi.org/10.1101/753657
 
 2. Hatzenbuehler, M. L., Weissman, D. G., McKetta, S., Lattanner, M. R., Ford, J. V.,  Barch, D. M., McLaughlin, K. A. (under review) Smaller hippocampal volume among Black and Latinx youth living in high-stigma contexts. https://doi.org/10.1101/2020.10.09.333328 
 
