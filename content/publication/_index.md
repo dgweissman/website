@@ -4,9 +4,11 @@ title: Publications
 
 1. Hatzenbuehler, M. L., Weissman, D. G., McKetta, S., Lattanner, M. R., Ford, J. V.,  Barch, D. M., McLaughlin, K. A. (under review) Smaller hippocampal volume among Black and Latinx youth living in high-stigma contexts. https://doi.org/10.1101/2020.10.09.333328 
 
-2. Susman, E. S.*, Weissman, D. G.*, Sheridan, M., & McLaughlin, K. A., (under review). Vagal tone and extinction learning as potential transdiagnostic protective factors following childhood violence exposure. https://doi.org/10.31234/osf.io/8xshm
+2. Susman, E. S., Weissman, D. G., Sheridan, M., & McLaughlin, K. A., (under review). Vagal tone and extinction learning as potential transdiagnostic protective factors following childhood violence exposure. https://doi.org/10.31234/osf.io/8xshm
 
-3. Weissman, D. G., Mendes, W. B. (in press). Correlation of sympathetic and parasympathetic nervous system activity during rest and acute stress tasks. International Journal of Psychophysiology. https://doi.org/10.1101/753657
+3. Cuartas, J., Weissman, D. G., Sheridan, M. A., Lengua, L., McLaughlin, K. A., (in press). Corporal punishment and elevated neural response to threat in children. Child Development.
+
+Weissman, D. G., Mendes, W. B. (2021). Correlation of sympathetic and parasympathetic nervous system activity during rest and acute stress tasks. International Journal of Psychophysiology. https://doi.org/10.1016/j.ijpsycho.2021.01.015
 
 4. Ugarte, E., Narea, M., Aldoney, D., Weissman, D. G., Hastings, P. D. (2020) Family risk and externalizing problems in Chilean children: mediation by harsh parenting and emotional support. Child Development. https://doi.org/10.1111/cdev.13464
 
