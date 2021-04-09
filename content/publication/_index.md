@@ -10,7 +10,7 @@ title: Publications
 
 4. Susman, E. S., Weissman, D. G., Sheridan, M., & McLaughlin, K. A., (under review). Vagal tone and extinction learning as potential transdiagnostic protective factors following childhood violence exposure. https://doi.org/10.31234/osf.io/8xshm
 
-5. Cuartas, J., Weissman, D. G., Sheridan, M. A., Lengua, L., McLaughlin, K. A., (in press). Corporal punishment and elevated neural response to threat in children. Child Development.
+5. Cuartas, J., Weissman, D. G., Sheridan, M. A., Lengua, L., McLaughlin, K. A., (in press). Corporal punishment and elevated neural response to threat in children. Child Development. https://doi.org/10.1111/cdev.13565
 
 6. Weissman, D. G., Mendes, W. B. (2021). Correlation of sympathetic and parasympathetic nervous system activity during rest and acute stress tasks. International Journal of Psychophysiology. https://doi.org/10.1016/j.ijpsycho.2021.01.015
 
