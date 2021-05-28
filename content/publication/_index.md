@@ -4,11 +4,11 @@ title: Publications
 
 1. Weissman, D. G., Rodman, A. M., Rosen, M. L., Kasparek, S. W., Mayes, M., Sheridan, M., Lengua, L., Meltzoff, A. N., & McLaughlin, K. A. (under review). Contributions of emotion regulation and brain structure and function to adolescent internalizing problems and stress vulnerability during the COVID-19 pandemic: A longitudinal study. https://doi.org/10.31234/osf.io/jfxd4
 
-2. Kim, S. G., Weissman, D. G., Sheridan, M., & McLaughlin, K. A. (under review). Child abuse subtypes and automatic emotion regulation processes in children and adolescents. https://doi.org/10.31234/osf.io/r2yj8
+2. Hatzenbuehler, M. L., Weissman, D. G., McKetta, S., Lattanner, M. R., Ford, J. V.,  Barch, D. M., McLaughlin, K. A. (under review) Smaller hippocampal volume among Black and Latinx youth living in high-stigma contexts. https://doi.org/10.1101/2020.10.09.333328 
 
-3. Hatzenbuehler, M. L., Weissman, D. G., McKetta, S., Lattanner, M. R., Ford, J. V.,  Barch, D. M., McLaughlin, K. A. (under review) Smaller hippocampal volume among Black and Latinx youth living in high-stigma contexts. https://doi.org/10.1101/2020.10.09.333328 
+3. Susman, E. S., Weissman, D. G., Sheridan, M., & McLaughlin, K. A., (under review). Vagal tone and extinction learning as potential transdiagnostic protective factors following childhood violence exposure. https://doi.org/10.31234/osf.io/8xshm
 
-4. Susman, E. S., Weissman, D. G., Sheridan, M., & McLaughlin, K. A., (under review). Vagal tone and extinction learning as potential transdiagnostic protective factors following childhood violence exposure. https://doi.org/10.31234/osf.io/8xshm
+4. Kim, S. G., Weissman, D. G., Sheridan, M., & McLaughlin, K. A. (in press). Child abuse subtypes and automatic emotion regulation processes in children and adolescents. Development and Psychopathology. https://doi.org/10.31234/osf.io/r2yj8
 
 5. Cuartas, J., Weissman, D. G., Sheridan, M. A., Lengua, L., McLaughlin, K. A., (2021). Corporal punishment and elevated neural response to threat in children. Child Development. https://doi.org/10.1111/cdev.13565
 
