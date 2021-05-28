@@ -1,6 +1,5 @@
 +++
 # A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -9,27 +8,6 @@ weight = 20  # Order that this section will appear.
 
 title = "Recent Publications"
 subtitle = ""
-
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
-  
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 5
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
-
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
-
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
   
 [design]
   # Toggle between the various page layout types.
@@ -67,14 +45,14 @@ subtitle = ""
  css_class = ""
 +++
 
-1. Weissman, D. G., Nook, E. C., Dews, A. A., Miller, A. B, Lambert, H. K., Sasse, S. F., Somerville, L. H., McLaughlin, K. A. (2020). Low emotional awareness as a transdiagnostic mechanism underlying psychopathology in adolescence. Clinical Psychological Science. https://doi.org/10.1177/2167702620923649
+1. Weissman, D. G., Mendes, W. B. (2021). Correlation of sympathetic and parasympathetic nervous system activity during rest and acute stress tasks. International Journal of Psychophysiology. https://doi.org/10.1016/j.ijpsycho.2021.01.015
 
-2. Weissman, D. G., Lambert, H. K., Rodman, A. M., Peverill, M., Sheridan, M. A., McLaughlin, K. A. (2020). Reduced hippocampal and amygdala volume as a mechanism underlying stress sensitization to depression following childhood trauma. Depression and Anxiety. https://doi.org/10.1002/da.23062
+2. Weissman, D. G., Nook, E. C., Dews, A. A., Miller, A. B, Lambert, H. K., Sasse, S. F., Somerville, L. H., McLaughlin, K. A. (2020). Low emotional awareness as a transdiagnostic mechanism underlying psychopathology in adolescence. Clinical Psychological Science. https://doi.org/10.1177/2167702620923649
 
-3. McLaughlin, K. A., Weissman, D. G., Bitran, D. (2019) Childhood adversity and neural development: a systematic review. Annual Review of Developmental Psychology. https://doi.org/10.1146/annurev-devpsych-121318-084950
+3. Weissman, D. G., Lambert, H. K., Rodman, A. M., Peverill, M., Sheridan, M. A., McLaughlin, K. A. (2020). Reduced hippocampal and amygdala volume as a mechanism underlying stress sensitization to depression following childhood trauma. Depression and Anxiety. https://doi.org/10.1002/da.23062
 
-4. Weissman, D. G., Jenness, J. L., Colich, N. L., Miller, A. B., Sambrook, K. A., Sheridan, M. A., & McLaughlin, K. A. (2019). Altered neural processing of threat-related information in children and adolescents exposed to violence: A transdiagnostic mechanism contributing to the emergence of psychopathology. Journal of the American Academy of Child & Adolescent Psychiatry. https://doi.org/10.1016/j.jaac.2019.08.471
+4. McLaughlin, K. A., Weissman, D. G., Bitran, D. (2019) Childhood adversity and neural development: a systematic review. Annual Review of Developmental Psychology. https://doi.org/10.1146/annurev-devpsych-121318-084950
 
-5. Weissman, D. G., Bitran, D., Miller, A. B., Schaefer, J. D., Sheridan, M. A., & Mclaughlin, K. A. (2019). Difficulties with emotion regulation as a transdiagnostic mechanism linking child maltreatment with the emergence of psychopathology. Development and Psychopathology. https://doi.org/10.1017/S0954579419000348
+5. Weissman, D. G., Jenness, J. L., Colich, N. L., Miller, A. B., Sambrook, K. A., Sheridan, M. A., & McLaughlin, K. A. (2019). Altered neural processing of threat-related information in children and adolescents exposed to violence: A transdiagnostic mechanism contributing to the emergence of psychopathology. Journal of the American Academy of Child & Adolescent Psychiatry. https://doi.org/10.1016/j.jaac.2019.08.471
 
 [full list of publications]({{< ref "/publication/_index.md" >}})
