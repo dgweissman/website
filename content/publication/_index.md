@@ -6,9 +6,9 @@ title: Publications
 
 2. Susman, E. S., Weissman, D. G., Sheridan, M., & McLaughlin, K. A., (under review). Vagal tone and extinction learning as potential transdiagnostic protective factors following childhood violence exposure. https://doi.org/10.31234/osf.io/8xshm
 
-3. Weissman, D. G., Rodman, A. M., Rosen, M. L., Kasparek, S. W., Mayes, M., Sheridan, M., Lengua, L., Meltzoff, A. N., & McLaughlin, K. A. (in press). Contributions of emotion regulation and brain structure and function to adolescent internalizing problems and stress vulnerability during the COVID-19 pandemic: A longitudinal study. https://doi.org/10.31234/osf.io/jfxd4
+3. Kim, S. G., Weissman, D. G., Sheridan, M., & McLaughlin, K. A. (in press). Child abuse subtypes and automatic emotion regulation processes in children and adolescents. Development and Psychopathology. https://doi.org/10.31234/osf.io/r2yj8
 
-4. Kim, S. G., Weissman, D. G., Sheridan, M., & McLaughlin, K. A. (in press). Child abuse subtypes and automatic emotion regulation processes in children and adolescents. Development and Psychopathology. https://doi.org/10.31234/osf.io/r2yj8
+4. Weissman, D. G., Rodman, A. M., Rosen, M. L., Kasparek, S. W., Mayes, M., Sheridan, M., Lengua, L., Meltzoff, A. N., & McLaughlin, K. A. (2021). Contributions of emotion regulation and brain structure and function to adolescent internalizing problems and stress vulnerability during the COVID-19 pandemic: A longitudinal study. Biological Psychiatry: Global Open Science. https://doi.org/10.1016/j.bpsgos.2021.06.001
 
 5. Cuartas, J., Weissman, D. G., Sheridan, M. A., Lengua, L., McLaughlin, K. A., (2021). Corporal punishment and elevated neural response to threat in children. Child Development. https://doi.org/10.1111/cdev.13565
 
