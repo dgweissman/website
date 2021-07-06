@@ -10,7 +10,7 @@ title: Publications
 
 4. Ugarte, E., Miller, J. G., Weissman, D. G., & Hastings, P. D. (in press). Vagal flexibility to negative emotions moderates the relations between environmental risk and adjustment problems in childhood. Development and Psychopathology
 
-5. Weissman, D. G. (2021). Stimulus and Response: Advancing Theoretical Rigor in Early Adversity Research. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging. 6, 673-675. https://doi.org/10.1016/j.bpsc.2021.03.012
+5. Weissman, D. G. (2021). Stimulus and response: Advancing theoretical rigor in early adversity research. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging. 6, 673-675. https://doi.org/10.1016/j.bpsc.2021.03.012
 
 6. Johnson, L. E., Parra, L. A., Ugarte, E., Weissman, D. G., Han, S. G., Robins, R. W., Guyer, A. E., Hastings, P. D. (2021) Patterns of Poverty Across Adolescence Predict Salivary Cortisol Stress Responses in Mexican-origin Youths. Psychoneuroendocrinology. https://doi.org/10.1016/j.psyneuen.2021.105340
 
