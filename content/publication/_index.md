@@ -10,13 +10,17 @@ title: Publications
 
 4. Ugarte, E., Miller, J. G., Weissman, D. G., & Hastings, P. D. (in press). Vagal flexibility to negative emotions moderates the relations between environmental risk and adjustment problems in childhood. Development and Psychopathology
 
-5. Weissman, D. G. (2021). Stimulus and response: Advancing theoretical rigor in early adversity research. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging. 6, 673-675. https://doi.org/10.1016/j.bpsc.2021.03.012 {{% staticref "files/bp_cnni2021.pdf" "newtab" %}}pdf{{% /staticref %}}
+5. Weissman, D. G. (2021). Stimulus and response: Advancing theoretical rigor in early adversity research. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging. 6, 673-675. https://doi.org/10.1016/j.bpsc.2021.03.012 
+{{% staticref "files/bp_cnni2021.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 6. Johnson, L. E., Parra, L. A., Ugarte, E., Weissman, D. G., Han, S. G., Robins, R. W., Guyer, A. E., Hastings, P. D. (2021) Patterns of Poverty Across Adolescence Predict Salivary Cortisol Stress Responses in Mexican-origin Youths. Psychoneuroendocrinology. https://doi.org/10.1016/j.psyneuen.2021.105340
+{{% staticref "files/pne2021.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 7. Weissman, D. G., Rodman, A. M., Rosen, M. L., Kasparek, S. W., Mayes, M., Sheridan, M., Lengua, L., Meltzoff, A. N., & McLaughlin, K. A. (2021). Contributions of emotion regulation and brain structure and function to adolescent internalizing problems and stress vulnerability during the COVID-19 pandemic: A longitudinal study. Biological Psychiatry: Global Open Science. https://doi.org/10.1016/j.bpsgos.2021.06.001
+{{% staticref "files/bpgos2021.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 8. Cuartas, J., Weissman, D. G., Sheridan, M. A., Lengua, L., McLaughlin, K. A., (2021). Corporal punishment and elevated neural response to threat in children. Child Development. https://doi.org/10.1111/cdev.13565
+{{% staticref "files/cdev2021.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 9. Weissman, D. G., Mendes, W. B. (2021). Correlation of sympathetic and parasympathetic nervous system activity during rest and acute stress tasks. International Journal of Psychophysiology. https://doi.org/10.1016/j.ijpsycho.2021.01.015
 
