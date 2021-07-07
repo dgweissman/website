@@ -41,20 +41,28 @@ title: Publications
 {{% staticref "files/bmc2020.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 15. Chahal, R., Weissman, D. G., Marek, S., Rhoads, S. A., Hipwell, A. E., Forbes, E. E., Keenan, K., Guyer, A. E., (2019). Girls’ Brain Structural Connectivity in Late Adolescence Relates to History of Depression Symptoms. Journal of Child Psychology and Psychiatry. https://doi.org/10.1111/jcpp.13184
+{{% staticref "files/jcpp2019.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 16. McLaughlin, K. A., Weissman, D. G., Bitran, D. (2019) Childhood adversity and neural development: a systematic review. Annual Review of Developmental Psychology. https://doi.org/10.1146/annurev-devpsych-121318-084950
+{{% staticref "files/ard2019.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 17. Vilgis, V., Rhoads, S. A., Weissman, D. G., Gelardi, K., Forbes, E. K., Hipwell, A. E., Keenan, K., Hastings, P. D., Guyer, A. E. (2019). Direct replication of task-dependent neural activation patterns during sadness introspection in two independent adolescent samples. Human Brain Mapping. https://doi.org/10.1002/hbm.24836.
+18. {{% staticref "files/hbm2019.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 18. Weissman, D. G., Jenness, J. L., Colich, N. L., Miller, A. B., Sambrook, K. A., Sheridan, M. A., & McLaughlin, K. A. (2019). Altered neural processing of threat-related information in children and adolescents exposed to violence: A transdiagnostic mechanism contributing to the emergence of psychopathology. Journal of the American Academy of Child & Adolescent Psychiatry. https://doi.org/10.1016/j.jaac.2019.08.471
+{{% staticref "files/jaacap2019.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 19. Swartz, J. R., Weissman, D. G., Ferrer, E., Beard, S. J., Fassbender, C., Robins, R. W., Hastings, P. D., & Guyer, A.E. (2019). Reward-related brain activity prospectively predicts increases in alcohol use in adolescents. Journal of the American Academy of Child and Adolescent Psychiatry. https://doi.org/10.1016/j.jaac.2019.05.022
+{{% staticref "files/swartz2019.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 20. Weissman, D. G., Guyer, A. E., Ferrer, E., Robins, R. W., & Hastings, P. D. (2019). Tuning of brain-autonomic coupling by prior threat exposure: Implications for internalizing problems in Mexican-origin adolescents. Development and Psychopathology. https://doi.org/10.1017/S0954579419000646
+{{% staticref "files/dp2019_1.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 21. Rodman, A. M., Jenness, J. L., Weissman, D. G., Pine, D. S., & McLaughlin, K. A. (2019). Neurobiological markers of resilience to depression and anxiety following childhood maltreatment: The role of neural circuits supporting the cognitive control of emotion. Biological Psychiatry. https://doi.org/10.1016/j.biopsych.2019.04.033
+{{% staticref "files/bp2019.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 22. Weissman, D. G., Bitran, D., Miller, A. B., Schaefer, J. D., Sheridan, M. A., & Mclaughlin, K. A. (2019). Difficulties with emotion regulation as a transdiagnostic mechanism linking child maltreatment with the emergence of psychopathology. Development and Psychopathology. https://doi.org/10.1017/S0954579419000348
+{{% staticref "files/dp2019_2.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 23. Weissman, D. G., Conger, R. D., Robins, R. W., Hastings, P. D., & Guyer, A. E. (2018). Income change alters default mode network connectivity for adolescents in poverty. Developmental Cognitive Neuroscience, 30, 93–99. https://doi.org/10.1016/j.dcn.2018.01.008
 
