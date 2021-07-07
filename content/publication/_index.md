@@ -2,7 +2,7 @@
 title: Publications
 ---
 
-1. Hatzenbuehler, M. L., Weissman, D. G., McKetta, S., Lattanner, M. R., Ford, J. V.,  Barch, D. M., McLaughlin, K. A. (under review) Smaller hippocampal volume among Black and Latinx youth living in high-stigma contexts. https://doi.org/10.1101/2020.10.09.333328 
+1. Hatzenbuehler, M. L., Weissman, D. G., McKetta, S., Lattanner, M. R., Ford, J. V.,  Barch, D. M., McLaughlin, K. A. (under review) Smaller hippocampal volume among Black and Latinx youth living in high-stigma contexts. https://doi.org/10.1101/2020.10.09.333328 {{% staticref "files/cv.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 2. Susman, E. S., Weissman, D. G., Sheridan, M., & McLaughlin, K. A., (in press). Vagal tone and extinction learning as potential transdiagnostic protective factors following childhood violence exposure. Developmental Psychobiology. https://doi.org/10.31234/osf.io/8xshm
 
