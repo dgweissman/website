@@ -23,6 +23,7 @@ title: Publications
 {{% staticref "files/cdev2021.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 9. Weissman, D. G., Mendes, W. B. (2021). Correlation of sympathetic and parasympathetic nervous system activity during rest and acute stress tasks. International Journal of Psychophysiology. https://doi.org/10.1016/j.ijpsycho.2021.01.015
+{{% staticref "files/ijp2021.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 10. Ugarte, E., Narea, M., Aldoney, D., Weissman, D. G., Hastings, P. D. (2020) Family risk and externalizing problems in Chilean children: mediation by harsh parenting and emotional support. Child Development. https://doi.org/10.1111/cdev.13464
 
