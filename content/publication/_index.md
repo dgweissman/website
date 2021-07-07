@@ -65,11 +65,16 @@ title: Publications
 {{% staticref "files/dp2019_2.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 23. Weissman, D. G., Conger, R. D., Robins, R. W., Hastings, P. D., & Guyer, A. E. (2018). Income change alters default mode network connectivity for adolescents in poverty. Developmental Cognitive Neuroscience, 30, 93–99. https://doi.org/10.1016/j.dcn.2018.01.008
+{{% staticref "files/dcn2018.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 24. Weissman, D. G., Gelardi, K. L., Conger, R. D., Robins, R. W., Hastings, P. D., & Guyer, A. E. (2018). Adolescent externalizing problems: Contributions of community crime exposure and neural function during emotion introspection in Mexican-origin youth. Journal of Research on Adolescence, 28(2), 551–563. https://doi.org/10.1111/jora.12358
+{{% staticref "files/jra2018.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 25. Weissman, D. G., Guyer, A. E., Ferrer, E., Robins, R. W., & Hastings, P. D. (2018). Adolescents’ brain-autonomic coupling during emotion processing. NeuroImage, 183, 818–827. https://doi.org/10.1016/j.neuroimage.2018.08.069
+{{% staticref "files/ni2018.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 26. Tashjian, S. M., Weissman, D. G., Guyer, A. E., & Galván, A. (2018). Neural response to prosocial scenes relates to subsequent giving behavior in adolescents: A pilot study. Cognitive, Affective and Behavioral Neuroscience, 18(2), 342–352. https://doi.org/10.3758/s13415-018-0573-9
+{{% staticref "files/cabn2018.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 27. Weissman, D. G., Schriber, R. A., Fassbender, C., Atherton, O., Krafft, C., Robins, R. W., … Guyer, A. E. (2015). Earlier adolescent substance use onset predicts stronger connectivity between reward and cognitive control brain networks. Developmental Cognitive Neuroscience, 16, 121–129. https://doi.org/10.1016/j.dcn.2015.07.002
+{{% staticref "files/dcn2015.pdf" "newtab" %}}pdf{{% /staticref %}}
