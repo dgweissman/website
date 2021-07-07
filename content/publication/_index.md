@@ -2,7 +2,7 @@
 title: Publications
 ---
 
-1. Hatzenbuehler, M. L., Weissman, D. G., McKetta, S., Lattanner, M. R., Ford, J. V.,  Barch, D. M., McLaughlin, K. A. (under review) Smaller hippocampal volume among Black and Latinx youth living in high-stigma contexts. https://doi.org/10.1101/2020.10.09.333328 {{% staticref "files/cv.pdf" "newtab" %}}pdf{{% /staticref %}}
+1. Hatzenbuehler, M. L., Weissman, D. G., McKetta, S., Lattanner, M. R., Ford, J. V.,  Barch, D. M., McLaughlin, K. A. (under review) Smaller hippocampal volume among Black and Latinx youth living in high-stigma contexts. https://doi.org/10.1101/2020.10.09.333328 
 
 2. Susman, E. S., Weissman, D. G., Sheridan, M., & McLaughlin, K. A., (in press). Vagal tone and extinction learning as potential transdiagnostic protective factors following childhood violence exposure. Developmental Psychobiology. https://doi.org/10.31234/osf.io/8xshm
 
@@ -10,7 +10,7 @@ title: Publications
 
 4. Ugarte, E., Miller, J. G., Weissman, D. G., & Hastings, P. D. (in press). Vagal flexibility to negative emotions moderates the relations between environmental risk and adjustment problems in childhood. Development and Psychopathology
 
-5. Weissman, D. G. (2021). Stimulus and response: Advancing theoretical rigor in early adversity research. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging. 6, 673-675. https://doi.org/10.1016/j.bpsc.2021.03.012
+5. Weissman, D. G. (2021). Stimulus and response: Advancing theoretical rigor in early adversity research. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging. 6, 673-675. https://doi.org/10.1016/j.bpsc.2021.03.012 {{% staticref "files/cv.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 6. Johnson, L. E., Parra, L. A., Ugarte, E., Weissman, D. G., Han, S. G., Robins, R. W., Guyer, A. E., Hastings, P. D. (2021) Patterns of Poverty Across Adolescence Predict Salivary Cortisol Stress Responses in Mexican-origin Youths. Psychoneuroendocrinology. https://doi.org/10.1016/j.psyneuen.2021.105340
 
