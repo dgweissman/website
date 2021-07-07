@@ -26,14 +26,19 @@ title: Publications
 {{% staticref "files/ijp2021.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 10. Ugarte, E., Narea, M., Aldoney, D., Weissman, D. G., Hastings, P. D. (2020) Family risk and externalizing problems in Chilean children: mediation by harsh parenting and emotional support. Child Development. https://doi.org/10.1111/cdev.13464
+{{% staticref "files/cdev2020.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 11. Weissman, D. G., Nook, E. C., Dews, A. A., Miller, A. B, Lambert, H. K., Sasse, S. F., Somerville, L. H., McLaughlin, K. A. (2020). Low emotional awareness as a transdiagnostic mechanism underlying psychopathology in adolescence. Clinical Psychological Science. https://doi.org/10.1177/2167702620923649
+{{% staticref "files/cpp2020.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 12. Weissman, D. G., Lambert, H. K., Rodman, A. M., Peverill, M., Sheridan, M. A., McLaughlin, K. A. (2020). Reduced hippocampal and amygdala volume as a mechanism underlying stress sensitization to depression following childhood trauma. Depression and Anxiety. https://doi.org/10.1002/da.23062
+{{% staticref "files/da2020.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 13. Chahal, R., Weissman, D. G., Hallquist, M. N., Robins, R. W., Hastings, P. D., Guyer, A. E. (2020) Neural connectivity biotypes: associations with internalizing problems throughout Adolescence. Psychological Medicine. https://doi.org/10.1017/S003329172000149X
+{{% staticref "files/pm2020.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 14. McLaughlin, K. A., Colich, N. L., Rodman, A. M., Weissman, D. G., (2020) Mechanisms linking childhood trauma exposure and psychopathology: a transdiagnostic model of risk and resilience. BMC Medicine. https://doi.org/10.1186/s12916-020-01561-6
+{{% staticref "files/bmc2020.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 15. Chahal, R., Weissman, D. G., Marek, S., Rhoads, S. A., Hipwell, A. E., Forbes, E. E., Keenan, K., Guyer, A. E., (2019). Girls’ Brain Structural Connectivity in Late Adolescence Relates to History of Depression Symptoms. Journal of Child Psychology and Psychiatry. https://doi.org/10.1111/jcpp.13184
 
