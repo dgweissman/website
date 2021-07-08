@@ -47,7 +47,7 @@ title: Publications
 {{% staticref "files/ard2019.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 17. Vilgis, V., Rhoads, S. A., Weissman, D. G., Gelardi, K., Forbes, E. K., Hipwell, A. E., Keenan, K., Hastings, P. D., Guyer, A. E. (2019). Direct replication of task-dependent neural activation patterns during sadness introspection in two independent adolescent samples. Human Brain Mapping. https://doi.org/10.1002/hbm.24836.
-18. {{% staticref "files/hbm2019.pdf" "newtab" %}}pdf{{% /staticref %}}
+{{% staticref "files/hbm2019.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 18. Weissman, D. G., Jenness, J. L., Colich, N. L., Miller, A. B., Sambrook, K. A., Sheridan, M. A., & McLaughlin, K. A. (2019). Altered neural processing of threat-related information in children and adolescents exposed to violence: A transdiagnostic mechanism contributing to the emergence of psychopathology. Journal of the American Academy of Child & Adolescent Psychiatry. https://doi.org/10.1016/j.jaac.2019.08.471
 {{% staticref "files/jaacap2019.pdf" "newtab" %}}pdf{{% /staticref %}}
