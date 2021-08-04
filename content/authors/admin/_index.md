@@ -37,6 +37,6 @@ social:
 ---
 I am a developmental cognitive neuroscientist studying neural mechanisms that explain how childhood trauma impacts emotion functioning in adolescence and contributes to the development of psychopathology. 
 
-I'm particularly interested in how exposure to violence may impact the functioning of brain networks involved in the percpetion of bodily states and the representation and conceptualization of discrete emotions.
+I'm particularly interested in how exposure to violence may impact the functioning of brain networks involved in the percpetion of bodily states and the representation and conceptualization of emotions.
 
 My research interests and pedagogical philosophy are informed by my education and training in Neuroscience and Developmental Psychology and my experiences as a middle school science teacher in a high poverty setting.
