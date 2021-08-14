@@ -10,7 +10,7 @@ title: Publications
 
 4. Ugarte, E., Miller, J. G., Weissman, D. G., & Hastings, P. D. (in press). Vagal flexibility to negative emotions moderates the relations between environmental risk and adjustment problems in childhood. Development and Psychopathology
 
-5. Kim, S. G., Weissman, D. G., Sheridan, M., & McLaughlin, K. A. (2021). Child abuse subtypes and automatic emotion regulation processes in children and adolescents. Development and Psychopathology. https://doi.org/10.1017/S0954579421000663  
+5. Kim, S. G., Weissman, D. G., Sheridan, M., & McLaughlin, K. A. (2021). Child abuse and automatic emotion regulation processes in children and adolescents. Development and Psychopathology. https://doi.org/10.1017/S0954579421000663  
 {{% staticref "files/dp2021.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 6. Weissman, D. G. (2021). Stimulus and response: Advancing theoretical rigor in early adversity research. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging. 6, 673-675. https://doi.org/10.1016/j.bpsc.2021.03.012 
