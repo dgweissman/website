@@ -16,7 +16,7 @@ title: Publications
 6. Weissman, D. G. (2021). Stimulus and response: Advancing theoretical rigor in early adversity research. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging. 6, 673-675. https://doi.org/10.1016/j.bpsc.2021.03.012 
 {{% staticref "files/bp_cnni2021.pdf" "newtab" %}}pdf{{% /staticref %}}
 
-7. Johnson, L. E., Parra, L. A., Ugarte, E., Weissman, D. G., Han, S. G., Robins, R. W., Guyer, A. E., Hastings, P. D. (2021) Patterns of Poverty Across Adolescence Predict Salivary Cortisol Stress Responses in Mexican-origin Youths. Psychoneuroendocrinology. https://doi.org/10.1016/j.psyneuen.2021.105340
+7. Johnson, L. E., Parra, L. A., Ugarte, E., Weissman, D. G., Han, S. G., Robins, R. W., Guyer, A. E., Hastings, P. D. (2021) Patterns of Poverty Across Adolescence Predict Salivary Cortisol Stress Responses in Mexican-origin Youths. Psychoneuroendocrinology. https://doi.org/10.1016/j.psyneuen.2021.105340 
 {{% staticref "files/pne2021.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 8. Weissman, D. G., Rodman, A. M., Rosen, M. L., Kasparek, S. W., Mayes, M., Sheridan, M., Lengua, L., Meltzoff, A. N., & McLaughlin, K. A. (2021). Contributions of emotion regulation and brain structure and function to adolescent internalizing problems and stress vulnerability during the COVID-19 pandemic: A longitudinal study. Biological Psychiatry: Global Open Science. https://doi.org/10.1016/j.bpsgos.2021.06.001
@@ -49,7 +49,7 @@ title: Publications
 17. McLaughlin, K. A., Weissman, D. G., Bitran, D. (2019) Childhood adversity and neural development: a systematic review. Annual Review of Developmental Psychology. https://doi.org/10.1146/annurev-devpsych-121318-084950
 {{% staticref "files/ard2019.pdf" "newtab" %}}pdf{{% /staticref %}}
 
-18. Vilgis, V., Rhoads, S. A., Weissman, D. G., Gelardi, K., Forbes, E. K., Hipwell, A. E., Keenan, K., Hastings, P. D., Guyer, A. E. (2019). Direct replication of task-dependent neural activation patterns during sadness introspection in two independent adolescent samples. Human Brain Mapping. https://doi.org/10.1002/hbm.24836.
+18. Vilgis, V., Rhoads, S. A., Weissman, D. G., Gelardi, K., Forbes, E. K., Hipwell, A. E., Keenan, K., Hastings, P. D., Guyer, A. E. (2019). Direct replication of task-dependent neural activation patterns during sadness introspection in two independent adolescent samples. Human Brain Mapping. https://doi.org/10.1002/hbm.24836
 {{% staticref "files/hbm2019.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 19. Weissman, D. G., Jenness, J. L., Colich, N. L., Miller, A. B., Sambrook, K. A., Sheridan, M. A., & McLaughlin, K. A. (2019). Altered neural processing of threat-related information in children and adolescents exposed to violence: A transdiagnostic mechanism contributing to the emergence of psychopathology. Journal of the American Academy of Child & Adolescent Psychiatry. https://doi.org/10.1016/j.jaac.2019.08.471
