@@ -6,9 +6,10 @@ title: Publications
  
 2. Hatzenbuehler, M. L., Weissman, D. G., McKetta, S., Lattanner, M. R., Ford, J. V.,  Barch, D. M., McLaughlin, K. A. (in press) Smaller hippocampal volume among Black and Latinx youth living in high-stigma contexts. Journal of the American Academy of Child & Adolescent Psychiatry. https://doi.org/10.1101/2020.10.09.333328 
 
-3. Susman, E. S., Weissman, D. G., Sheridan, M., & McLaughlin, K. A., (in press). Vagal tone and extinction learning as potential transdiagnostic protective factors following childhood violence exposure. Developmental Psychobiology. https://doi.org/10.31234/osf.io/8xshm
-
-4. Ugarte, E., Miller, J. G., Weissman, D. G., & Hastings, P. D. (in press). Vagal flexibility to negative emotions moderates the relations between environmental risk and adjustment problems in childhood. Development and Psychopathology
+3. Ugarte, E., Miller, J. G., Weissman, D. G., & Hastings, P. D. (in press). Vagal flexibility to negative emotions moderates the relations between environmental risk and adjustment problems in childhood. Development and Psychopathology. 
+ 
+4. 3. Susman, E. S., Weissman, D. G., Sheridan, M., & McLaughlin, K. A., (2021). Vagal tone and extinction learning as potential transdiagnostic protective factors following childhood violence exposure. Developmental Psychobiology. https://doi.org/10.1002/dev.22176  
+{{% staticref "files/dpb2021.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 5. Kim, S. G., Weissman, D. G., Sheridan, M., & McLaughlin, K. A. (2021). Child abuse and automatic emotion regulation in children and adolescents. Development and Psychopathology. https://doi.org/10.1017/S0954579421000663  
 {{% staticref "files/dp2021.pdf" "newtab" %}}pdf{{% /staticref %}}
