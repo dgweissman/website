@@ -3,6 +3,7 @@ title: Publications
 ---
 
 1. Weissman, D. G., Rosen, M. L., Lengua, L. J., Sambrook, K. A., Sheridan, M. A., & McLaughlin, K. A. (under review) Exposure to violence as an environmental pathway linking low socioeconomic status with altered neural processing of threat and adolescent psychopathology. https://doi.org/10.31234/osf.io/eaz9d
+{{% staticref "files/jaacap2021.pdf" "newtab" %}}pdf{{% /staticref %}}
  
 2. Hatzenbuehler, M. L., Weissman, D. G., McKetta, S., Lattanner, M. R., Ford, J. V.,  Barch, D. M., McLaughlin, K. A. (2021) Smaller hippocampal volume among Black and Latinx youth living in high-stigma contexts. Journal of the American Academy of Child & Adolescent Psychiatry. https://doi.org/10.1016/j.jaac.2021.08.017 
 
