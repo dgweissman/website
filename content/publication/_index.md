@@ -6,7 +6,7 @@ title: Publications
 
 2. Ugarte, E., Miller, J. G., Weissman, D. G., & Hastings, P. D. (in press). Vagal flexibility to negative emotions moderates the relations between environmental risk and adjustment problems in childhood. Development and Psychopathology. 
  
-3. Hatzenbuehler, M. L., Weissman, D. G., McKetta, S., Lattanner, M. R., Ford, J. V.,  Barch, D. M., McLaughlin, K. A. (2021) Smaller hippocampal volume among Black and Latinx youth living in high-stigma contexts. Journal of the American Academy of Child & Adolescent Psychiatry. https://doi.org/10.1016/j.jaac.2021.08.017 
+3. Hatzenbuehler, M. L., Weissman, D. G., McKetta, S., Lattanner, M. R., Ford, J. V.,  Barch, D. M., McLaughlin, K. A. (2021) Smaller hippocampal volume among Black and Latinx youth living in high-stigma contexts. Journal of the American Academy of Child & Adolescent Psychiatry. https://doi.org/10.1016/j.jaac.2021.08.017. 
 {{% staticref "files/jaacap2021.pdf" "newtab" %}}pdf{{% /staticref %}}
  
 4. Susman, E. S., Weissman, D. G., Sheridan, M., & McLaughlin, K. A., (2021). High vagal tone and rapid extinction learning as potential transdiagnostic protective factors following childhood violence exposure. Developmental Psychobiology. https://doi.org/10.1002/dev.22176  
