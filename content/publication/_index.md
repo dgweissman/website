@@ -2,7 +2,7 @@
 title: Publications
 ---
 
-1. 1.	Weissman, D. G., Hatzenbuehler, M. L., Cikara, M., Barch, D. M., McLaughlin, K. A. (under review) Antipoverty programs mitigate socioeconomic disparities in brain structure and psychopathology among U.S. youths. https://doi.org/10.31234/osf.io/8nhej
+1. Weissman, D. G., Hatzenbuehler, M. L., Cikara, M., Barch, D. M., McLaughlin, K. A. (under review) Antipoverty programs mitigate socioeconomic disparities in brain structure and psychopathology among U.S. youths. https://doi.org/10.31234/osf.io/8nhej
 
 2. Weissman, D. G., Rosen, M. L., Lengua, L. J., Sambrook, K. A., Sheridan, M. A., & McLaughlin, K. A. (under review) Exposure to violence as an environmental pathway linking low socioeconomic status with altered neural processing of threat and adolescent psychopathology. https://doi.org/10.31234/osf.io/eaz9d
 
