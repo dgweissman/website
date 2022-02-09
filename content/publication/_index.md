@@ -6,7 +6,8 @@ title: Publications
 
 2. Hatzenbuehler, M. L.,  M., McLaughlin, K. A., Weissman, D. G.,  Cikara, M. (under review) Community-level racial prejudice potentiates Whites’ neural responses to out-group faces: A spatial meta-analytic approach. https://doi.org/10.31234/osf.io/apqnx
 
-3. Weissman, D. G., Rosen, M. L., Lengua, L. J., Sambrook, K. A., Sheridan, M. A., & McLaughlin, K. A. (in press) Exposure to violence as an environmental pathway linking low socioeconomic status with altered neural processing of threat and adolescent psychopathology. Journal of Cognitive Neuroscience. https://doi.org/10.31234/osf.io/eaz9d
+3. Weissman, D. G., Rosen, M. L., Lengua, L. J., Sambrook, K. A., Sheridan, M. A., & McLaughlin, K. A. (2022) Exposure to violence as an environmental pathway linking low socioeconomic status with altered neural processing of threat and adolescent psychopathology. Journal of Cognitive Neuroscience. https://doi.org/10.1162/jocn_a_01825
+{{% staticref "files/jocn2022.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 4. Ugarte, E., Miller, J. G., Weissman, D. G., & Hastings, P. D. (2021). Vagal flexibility to negative emotions moderates the relations between environmental risk and adjustment problems in childhood. Development and Psychopathology. https://doi.org/10.1017/S0954579421000912
 {{% staticref "files/ugarte2021.pdf" "newtab" %}}pdf{{% /staticref %}}
