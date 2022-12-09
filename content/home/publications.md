@@ -45,19 +45,18 @@ subtitle = ""
  css_class = ""
 +++
 
-1. Weissman, D. G. (2021). Stimulus and response: Advancing theoretical rigor in early adversity research. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging. 6, 673-675. https://doi.org/10.1016/j.bpsc.2021.03.012
+1. Weissman, D. G., Rosen, M. L., Lengua, L. J., Sambrook, K. A., Sheridan, M. A., & McLaughlin, K. A. (2022) Exposure to violence as an environmental pathway linking low socioeconomic status with altered neural processing of threat and adolescent psychopathology. Journal of Cognitive Neuroscience. https://doi.org/10.1162/jocn_a_01825 pdf
+
+2. Weissman, D. G. (2021). Stimulus and response: Advancing theoretical rigor in early adversity research. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging. 6, 673-675. https://doi.org/10.1016/j.bpsc.2021.03.012
 {{% staticref "files/bp_cnni2021.pdf" "newtab" %}}pdf{{% /staticref %}}
 
-2. Weissman, D. G., Rodman, A. M., Rosen, M. L., Kasparek, S. W., Mayes, M., Sheridan, M., Lengua, L., Meltzoff, A. N., & McLaughlin, K. A. (2021). Contributions of emotion regulation and brain structure and function to adolescent internalizing problems and stress vulnerability during the COVID-19 pandemic: A longitudinal study. Biological Psychiatry: Global Open Science. https://doi.org/10.1016/j.bpsgos.2021.06.001
+3. Weissman, D. G., Rodman, A. M., Rosen, M. L., Kasparek, S. W., Mayes, M., Sheridan, M., Lengua, L., Meltzoff, A. N., & McLaughlin, K. A. (2021). Contributions of emotion regulation and brain structure and function to adolescent internalizing problems and stress vulnerability during the COVID-19 pandemic: A longitudinal study. Biological Psychiatry: Global Open Science. https://doi.org/10.1016/j.bpsgos.2021.06.001
 {{% staticref "files/bpgos2021.pdf" "newtab" %}}pdf{{% /staticref %}}
 
-3. Cuartas, J., Weissman, D. G., Sheridan, M. A., Lengua, L., McLaughlin, K. A., (2021). Corporal punishment and elevated neural response to threat in children. Child Development. https://doi.org/10.1111/cdev.13565
+4. Cuartas, J., Weissman, D. G., Sheridan, M. A., Lengua, L., McLaughlin, K. A., (2021). Corporal punishment and elevated neural response to threat in children. Child Development. https://doi.org/10.1111/cdev.13565
 {{% staticref "files/cdev2021.pdf" "newtab" %}}pdf{{% /staticref %}}
 
-4. Weissman, D. G., Mendes, W. B. (2021). Correlation of sympathetic and parasympathetic nervous system activity during rest and acute stress tasks. International Journal of Psychophysiology. https://doi.org/10.1016/j.ijpsycho.2021.01.015
+5. Weissman, D. G., Mendes, W. B. (2021). Correlation of sympathetic and parasympathetic nervous system activity during rest and acute stress tasks. International Journal of Psychophysiology. https://doi.org/10.1016/j.ijpsycho.2021.01.015
 {{% staticref "files/ijp2021.pdf" "newtab" %}}pdf{{% /staticref %}}
-
-5. Weissman, D. G., Nook, E. C., Dews, A. A., Miller, A. B, Lambert, H. K., Sasse, S. F., Somerville, L. H., McLaughlin, K. A. (2020). Low emotional awareness as a transdiagnostic mechanism underlying psychopathology in adolescence. Clinical Psychological Science. https://doi.org/10.1177/2167702620923649
-{{% staticref "files/cpp2020.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 [full list of publications]({{< ref "/publication/_index.md" >}})
