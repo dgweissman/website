@@ -3,9 +3,9 @@ title: Publications
 ---
 
 1. Weissman, D. G., Baum, G., Sanders, A., Rosen, M. L., Barch, D., McLaughlin, K. A., & Somerville, L. (under review). Socioeconomic status is unrelated to T1w/T2w myelin content in the Human Connectome Project in Development. https://doi.org/10.31234/osf.io/7hwnb
-{{% staticref "files/nc23.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 2. Weissman, D. G., Hatzenbuehler, M. L., Cikara, M., Barch, D. M., McLaughlin, K. A. (2023) State-level macro-economic factors moderate the association of low income with brain structure and mental health in U.S. children. Nature Communications. https://doi.org/10.1038/s41467-023-37778-1
+{{% staticref "files/nc23.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 3. Colich, N. L., Hanford, L. C., Weissman, D. G., Allen, N. B., Shirtcliff, E. A., Lengua, L., Sheridan, M. A., McLaughlin, K. A. (2022) Trauma, earlier pubertal timing, and psychopathology in adolescence: the role of corticolimbic development. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2022.101187
 {{% staticref "files/dcn22.pdf" "newtab" %}}pdf{{% /staticref %}}
