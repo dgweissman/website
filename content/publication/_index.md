@@ -28,7 +28,7 @@ title: Publications
 9. Ugarte, E., Miller, J. G., Weissman, D. G., & Hastings, P. D. (2021). Vagal flexibility to negative emotions moderates the relations between environmental risk and adjustment problems in childhood. Development and Psychopathology. https://doi.org/10.1017/S0954579421000912
 {{% staticref "files/ugarte2021.pdf" "newtab" %}}pdf{{% /staticref %}}
 
-10. Susman, E. S., Weissman, D. G., Sheridan, M., & McLaughlin, K. A., (2021). High vagal tone and rapid extinction learning as potential transdiagnostic protective factors following childhood violence exposure. Developmental Psychobiology. https://doi.org/10.1002/dev.22176  
+10. Susman, E. S., Weissman, D. G., Sheridan, M., & McLaughlin, K. A., (2021). High vagal tone and rapid extinction learning as potential transdiagnostic protective factors following childhood violence exposure. Developmental Psychobiology. 63(6), e22176. https://doi.org/10.1002/dev.22176  
 {{% staticref "files/dpb2021.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 11. Weissman, D. G. (2021). Stimulus and response: Advancing theoretical rigor in early adversity research. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging. 6, 673-675. https://doi.org/10.1016/j.bpsc.2021.03.012  
