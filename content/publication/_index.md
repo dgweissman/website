@@ -4,7 +4,8 @@ title: Publications
 
 1. Weissman, D. G., Baum, G., Sanders, A., Rosen, M. L., Barch, D., McLaughlin, K. A., & Somerville, L. (under review). Socioeconomic status is unrelated to T1w/T2w myelin content in the Human Connectome Project in Development. https://doi.org/10.31234/osf.io/7hwnb
 
-2. Weissman, D. G., Hatzenbuehler, M. L., Cikara, M., Barch, D. M., McLaughlin, K. A. (2023) State-level macro-economic factors moderate the association of low income with brain structure and mental health in U.S. children. Nature Communications. https://doi.org/10.1038/s41467-023-37778-1
+2. Weissman, D. G., Hatzenbuehler, M. L., Cikara, M., Barch, D. M., McLaughlin, K. A. (2023) State-level macro-economic factors moderate the association of low income with brain structure and mental health in U.S. children. Nature Communications. 14(1), 2085.
+https://doi.org/10.1038/s41467-023-37778-1
 {{% staticref "files/nc23.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 3. Keyes, K. M., Kreski, N. T., Joseph, V. A., Hamilton, A. D., Hatzenbuehler, M. L., McLaughlin, K. A., & Weissman, D. G. (2023). What Is Not Measured Cannot Be Counted: Sample Characteristics Reported in Studies of Hippocampal Volume and Depression in Neuroimaging Studies. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, 8(5), 492-494. https://doi.org/10.1016/j.bpsc.2023.01.007
