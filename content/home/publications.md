@@ -47,7 +47,7 @@ subtitle = ""
 
 1. Weissman, D. G., Hatzenbuehler, M. L., Cikara, M., Barch, D. M., McLaughlin, K. A. (2023) State-level macro-economic factors moderate the association of low income with brain structure and mental health in U.S. children. Nature Communications. https://doi.org/10.1038/s41467-023-37778-1 {{% staticref "files/nc23.pdf" "newtab" %}}pdf{{% /staticref %}}
 
-2. Weissman, D. G., Rosen, M. L., Lengua, L. J., Sambrook, K. A., Sheridan, M. A., & McLaughlin, K. A. (2022) Exposure to violence as an environmental pathway linking low socioeconomic status with altered neural processing of threat and adolescent psychopathology. Journal of Cognitive Neuroscience. https://doi.org/10.1162/jocn_a_01825 {{% staticref "files/jocn2022.pdf" "newtab" %}}pdf{{% /staticref %}}
+2. Weissman, D. G., Rosen, M. L., Lengua, L. J., Sambrook, K. A., Sheridan, M. A., & McLaughlin, K. A. (2022) Exposure to violence as an environmental pathway linking low socioeconomic status with altered neural processing of threat and adolescent psychopathology. Journal of Cognitive Neuroscience. 34(10), 1892-1905. https://doi.org/10.1162/jocn_a_01825 {{% staticref "files/jocn2022.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 3. Weissman, D. G. (2021). Stimulus and response: Advancing theoretical rigor in early adversity research. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging. 6, 673-675. https://doi.org/10.1016/j.bpsc.2021.03.012
 {{% staticref "files/bp_cnni2021.pdf" "newtab" %}}pdf{{% /staticref %}}
