@@ -42,4 +42,4 @@ I'm particularly interested in how exposure to violence may impact the functioni
 
 My research interests and pedagogical philosophy are informed by my education and training in Neuroscience and Developmental Psychology and my experiences as a middle school science teacher in a high poverty setting.
 
-# Coming Soon: Resilience, Affect, and Neurodevelopment Lab, California State University, Dominguez Hills
+## Coming Soon: Resilience, Affect, and Neurodevelopment Lab, California State University, Dominguez Hills
