@@ -16,6 +16,8 @@ role: Postdoctoral Fellow
 organizations:
 - name: Stress and Development Lab, Harvard University
   url: "https://sdlab.fas.harvard.edu/"
+- name: Coming Soon: Resilience, Affect, and Neurodevelopment Lab, California State University, Dominguez Hills
+
 
 # Social/Academic Networking
 social:
