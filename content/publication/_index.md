@@ -4,7 +4,7 @@ title: Publications
 
 1. Weissman, D. G., Baum, G., Sanders, A., Rosen, M. L., Barch, D., McLaughlin, K. A., & Somerville, L. (under review). Socioeconomic status is unrelated to T1w/T2w myelin content in the Human Connectome Project in Development. https://doi.org/10.31234/osf.io/7hwnb
 
-2. McLaughlin, K. A., Weissman, D. G. & Flournoy, J. (2023) Challenges with Latent Variable Approaches to Operationalizing Dimensions of Childhood adversity – a Commentary on Sisitsky et al. Research on Child Adolescent Psychopathology. https://doi.org/10.1007/s10802-023-01114-4
+2. McLaughlin, K. A., Weissman, D. G. & Flournoy, J. (2023) Challenges with latent variable approaches to operationalizing dimensions of childhood adversity – a commentary on Sisitsky et al. Research on Child Adolescent Psychopathology. https://doi.org/10.1007/s10802-023-01114-4
 {{% staticref "files/rcap23.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 3. Weissman, D. G., Hatzenbuehler, M. L., Cikara, M., Barch, D. M., McLaughlin, K. A. (2023) State-level macro-economic factors moderate the association of low income with brain structure and mental health in U.S. children. Nature Communications. 14(1), 2085.
