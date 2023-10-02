@@ -17,7 +17,7 @@ https://doi.org/10.1038/s41467-023-37778-1
 5. Colich, N. L., Hanford, L. C., Weissman, D. G., Allen, N. B., Shirtcliff, E. A., Lengua, L., Sheridan, M. A., McLaughlin, K. A. (2023) Trauma, earlier pubertal timing, and psychopathology in adolescence: the role of corticolimbic development. Developmental Cognitive Neuroscience. 59, 101187. https://doi.org/10.1016/j.dcn.2022.101187
 {{% staticref "files/dcn22.pdf" "newtab" %}}pdf{{% /staticref %}}
 
-6. Ugarte, E., Miller, J. G., Weissman, D. G., & Hastings, P. D. (2023). Vagal flexibility to negative emotions moderates the relations between environmental risk and adjustment problems in childhood. Development and Psychopathology. 35(3), 1051-1068.
+6. Ugarte, E., Miller, J. G., Weissman, D. G., & Hastings, P. D. (2023). Vagal flexibility to negative emotions moderates the relations between environmental risk and adjustment problems in childhood. Development and Psychopathology. 35(3), 1051-1068. https://doi.org/10.1017/S0954579421000912
 {{% staticref "files/ugarte2021.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 7. Kim, S. G., Weissman, D. G., Sheridan, M., & McLaughlin, K. A. (2023). Child abuse and automatic emotion regulation in children and adolescents. Development and Psychopathology. 35(1), 157-167. https://doi.org/10.1017/S0954579421000663  
