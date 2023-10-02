@@ -2,7 +2,7 @@
 title: Publications
 ---
 
-1. Weissman, D. G., Baum, G., Sanders, A., Rosen, M. L., Barch, D., McLaughlin, K. A., & Somerville, L. (in press). Family income is not significantly associated with T1w/T2w ratio in the Human Connectome Project in Development. Imaging Neuroscience. https://doi.org/10.31234/osf.io/7hwnb
+1. Weissman, D. G., Baum, G., Sanders, A., Rosen, M. L., Barch, D., McLaughlin, K. A., & Somerville, L. (in press). Family income is not significantly associated with T1w/T2w ratio in the Human Connectome Project in Development. Imaging Neuroscience. https://doi.org/10.1162/imag_a_00021
 
 2. McLaughlin, K. A., Weissman, D. G. & Flournoy, J. (2023) Challenges with latent variable approaches to operationalizing dimensions of childhood adversity – a commentary on Sisitsky et al. Research on Child Adolescent Psychopathology. https://doi.org/10.1007/s10802-023-01114-4
 {{% staticref "files/rcap23.pdf" "newtab" %}}pdf{{% /staticref %}}
@@ -17,20 +17,20 @@ https://doi.org/10.1038/s41467-023-37778-1
 5. Colich, N. L., Hanford, L. C., Weissman, D. G., Allen, N. B., Shirtcliff, E. A., Lengua, L., Sheridan, M. A., McLaughlin, K. A. (2023) Trauma, earlier pubertal timing, and psychopathology in adolescence: the role of corticolimbic development. Developmental Cognitive Neuroscience. 59, 101187. https://doi.org/10.1016/j.dcn.2022.101187
 {{% staticref "files/dcn22.pdf" "newtab" %}}pdf{{% /staticref %}}
 
-6. Kim, S. G., Weissman, D. G., Sheridan, M., & McLaughlin, K. A. (2023). Child abuse and automatic emotion regulation in children and adolescents. Development and Psychopathology. 35(1), 157-167. https://doi.org/10.1017/S0954579421000663  
+6. Ugarte, E., Miller, J. G., Weissman, D. G., & Hastings, P. D. (2023). Vagal flexibility to negative emotions moderates the relations between environmental risk and adjustment problems in childhood. Development and Psychopathology. 35(3), 1051-1068.
+{{% staticref "files/ugarte2021.pdf" "newtab" %}}pdf{{% /staticref %}}
+
+7. Kim, S. G., Weissman, D. G., Sheridan, M., & McLaughlin, K. A. (2023). Child abuse and automatic emotion regulation in children and adolescents. Development and Psychopathology. 35(1), 157-167. https://doi.org/10.1017/S0954579421000663  
 {{% staticref "files/dp2021.pdf" "newtab" %}}pdf{{% /staticref %}}
 
-7. Hatzenbuehler, M. L.,  M., McLaughlin, K. A., Weissman, D. G.,  Cikara, M. (2022) Community-level racial prejudice potentiates Whites’ neural responses to out-group faces: A spatial meta-analytic approach. Social Neuroscience. https://doi.org/10.1080/17470919.2022.2153915
+8. Hatzenbuehler, M. L.,  M., McLaughlin, K. A., Weissman, D. G.,  Cikara, M. (2022) Community-level racial prejudice potentiates Whites’ neural responses to out-group faces: A spatial meta-analytic approach. Social Neuroscience. https://doi.org/10.1080/17470919.2022.2153915
 {{% staticref "files/sn_2022.pdf" "newtab" %}}pdf{{% /staticref %}}
 
-8. Weissman, D. G., Rosen, M. L., Lengua, L. J., Sambrook, K. A., Sheridan, M. A., & McLaughlin, K. A. (2022) Exposure to violence as an environmental pathway linking low socioeconomic status with altered neural processing of threat and adolescent psychopathology. Journal of Cognitive Neuroscience. 34(10), 1892-1905. https://doi.org/10.1162/jocn_a_01825
+9. Weissman, D. G., Rosen, M. L., Lengua, L. J., Sambrook, K. A., Sheridan, M. A., & McLaughlin, K. A. (2022) Exposure to violence as an environmental pathway linking low socioeconomic status with altered neural processing of threat and adolescent psychopathology. Journal of Cognitive Neuroscience. 34(10), 1892-1905. https://doi.org/10.1162/jocn_a_01825
 {{% staticref "files/jocn2022.pdf" "newtab" %}}pdf{{% /staticref %}}
 
-9. Hatzenbuehler, M. L., Weissman, D. G., McKetta, S., Lattanner, M. R., Ford, J. V.,  Barch, D. M., McLaughlin, K. A. (2022) Smaller hippocampal volume among Black and Latinx youth living in high-stigma contexts. Journal of the American Academy of Child & Adolescent Psychiatry. 61(6), 809-819. https://doi.org/10.1016/j.jaac.2021.08.017  
+10. Hatzenbuehler, M. L., Weissman, D. G., McKetta, S., Lattanner, M. R., Ford, J. V.,  Barch, D. M., McLaughlin, K. A. (2022) Smaller hippocampal volume among Black and Latinx youth living in high-stigma contexts. Journal of the American Academy of Child & Adolescent Psychiatry. 61(6), 809-819. https://doi.org/10.1016/j.jaac.2021.08.017  
 {{% staticref "files/jaacap2021.pdf" "newtab" %}}pdf{{% /staticref %}}
-
-10. Ugarte, E., Miller, J. G., Weissman, D. G., & Hastings, P. D. (2021). Vagal flexibility to negative emotions moderates the relations between environmental risk and adjustment problems in childhood. Development and Psychopathology. https://doi.org/10.1017/S0954579421000912
-{{% staticref "files/ugarte2021.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 11. Susman, E. S., Weissman, D. G., Sheridan, M., & McLaughlin, K. A., (2021). High vagal tone and rapid extinction learning as potential transdiagnostic protective factors following childhood violence exposure. Developmental Psychobiology. 63(6), e22176. https://doi.org/10.1002/dev.22176  
 {{% staticref "files/dpb2021.pdf" "newtab" %}}pdf{{% /staticref %}}
