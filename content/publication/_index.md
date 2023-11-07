@@ -2,7 +2,7 @@
 title: Publications
 ---
 
-1. 1.	Weissman, D. G., Vartiainen, H. I., Nook, E. C., Lambert, H. K., Sasse, S. F., Somerville, L. H., McLaughlin, K. A. (under review). Perceptual sensitivity to emotion expressions: Associations with age and psychopathology from childhood through early adulthood. https://doi.org/10.31234/osf.io/vmqhe
+1. Weissman, D. G., Vartiainen, H. I., Nook, E. C., Lambert, H. K., Sasse, S. F., Somerville, L. H., McLaughlin, K. A. (under review). Perceptual sensitivity to emotion expressions: Associations with age and psychopathology from childhood through early adulthood. https://doi.org/10.31234/osf.io/vmqhe
 
 2. Martino, R. M., Weissman, D. G., McLaughlin, K. A., Hatzenbuehler, M. L. (2023). Associations between structural stigma and psychopathology among early adolescents. Journal of Clinical Child and Adolescent Psychology. https://doi.org/10.1080/15374416.2023.2272936 
 {{% staticref "files/jccp23.pdf" "newtab" %}}pdf{{% /staticref %}}
