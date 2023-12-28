@@ -10,22 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stress and Development Lab, Harvard University
-  url: "https://sdlab.fas.harvard.edu/"
+- name: California State University, Dominguez Hills
+  url: "https://ranlabdh.com/"
 
 
 # Social/Academic Networking
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:dweissman@fas.harvard.edu
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/dgweissman
+  link: mailto:dweissman@csudh.edu
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=VY3XyBUAAAAJ&hl=en
