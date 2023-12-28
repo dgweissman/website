@@ -3,18 +3,14 @@ weight = 30  # Order that this section will appear.
 title = "Teaching"
 +++
 
-As a secondary science and substitute teacher, a university teaching assistant and guest lecturer, and a college Psychology instructor at Mount Tamalpais College in San Quentin prison, I have taught a full breadth of possible academic disciplines to students from age 7 to 70, who have been diverse in every conceivable way. This experience gives me the perspective, knowledge, and confidence to apply a diverse, multimodal, inclusive, practical, and interactive pedagogy at the university level. 
+As a secondary science and substitute teacher, a college Psychology instructor at Mount Tamalpais College in San Quentin prison, and a college professor, I have taught a full breadth of possible academic disciplines to students from age 7 to 70, who have been diverse in every conceivable way. Based on this experience I try to apply a diverse, multimodal, inclusive, practical, and interactive pedagogy at the university level. Links to course materials for all my courses can be found below. I've uploaded materials for my Mount Tamalpais College classes to github. Upon the completion of each semester, I will share the public canvas for all my classes at CSU Dominguez Hills.
 
-## Experience: 
+## Courses: 
+### CSU Dominguez Hills
+- PSY 351: Psychology of the Adolescent Experience (Spring 2024)
+- Psy 550: Seminar in Developmental Psychology (Spring 2024)
 
-### Instructor at Mount Tamalpais College
+### Mount Tamalpais College
 - Psychology 255: Child Growth and Development (Spring 2023)
 - Psychology 221: General Psychology (Spring 2016)
 
-### Teaching asssistant at UC Davis
-- Psychology 175: Genius, Creativity, and Leadership (Fall 2016)
-- Psychology 142/Human Development 102: Social and Emotional Development (Winter 2015)
-
-### Public Education Specialist at the East Bay Academy for Young Scientists (2011-2013)
-
-### 7th Grade Science Teacher at Roots International Academy (2008-2011)
