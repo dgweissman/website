@@ -11,10 +11,13 @@ superuser: true
 
 # Role/position
 role: Assistant Professor
+role: Director
 
 # Organizations/Affiliations
 organizations:
 - name: California State University, Dominguez Hills
+  url: "https://www.csudh.edu/psychology/faculty-staff/david-weissman"
+- name: Resilience, Affect, and Neurodevelopment (RAN) Lab
   url: "https://www.ranlabdh.com/"
 
 
