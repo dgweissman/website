@@ -1,11 +1,12 @@
 ---
 # Display name
 name: David G. Weissman, PhD.
-name: 
+name: David G. Weissman, PhD.
 
 # Username (this should match the folder name)
 authors:
 - admin
+authors:
 - admin
 
 # Is this the primary user of the site?
