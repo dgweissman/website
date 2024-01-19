@@ -1,12 +1,15 @@
 ---
 # Display name
 name: David G. Weissman, PhD.
+name: 
 
 # Username (this should match the folder name)
 authors:
 - admin
+- admin
 
 # Is this the primary user of the site?
+superuser: true
 superuser: true
 
 # Role/position
