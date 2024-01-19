@@ -15,7 +15,7 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
 - name: California State University, Dominguez Hills
-  url: "https://ranlabdh.com/"
+  url: "https://www.ranlabdh.com/"
 
 
 # Social/Academic Networking
