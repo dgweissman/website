@@ -10,9 +10,10 @@ As a secondary science and substitute teacher, a college Psychology instructor a
 - PSY 351: Psychology of the Adolescent Experience (Spring 2024)
   
   Course Materials: <a href="https://lor.instructure.com/resources/1a9eeca4aef041a88d7b6534398880a6?shared">Online</a>
-  
+
                     <a href="https://lor.instructure.com/resources/f45c02897f92483e971256ecaeb5b97e?shared">In Person</a>
 - Psy 550: Seminar in Developmental Psychology (Spring 2024)
+
   <a href="https://lor.instructure.com/resources/983f9f106c7c491999f1e4c5dd6b81d5?shared">Course Materials</a>
 
 ### Mount Tamalpais College
