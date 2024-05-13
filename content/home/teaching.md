@@ -18,7 +18,9 @@ As a secondary science and substitute teacher, a college Psychology instructor a
 
 ### Mount Tamalpais College
 - Psychology 255: Child Growth and Development (Spring 2023)
-  Course Materials: https://osf.io/t5xsz/
-- Psychology 221: General Psychology (Spring 2016) 
-  Course Materials: https://osf.io/sbxvq/
+  
+    <a href="https://osf.io/t5xsz/">Course Materials</a>
+- Psychology 221: General Psychology (Spring 2016)
+  
+  <a href="https://osf.io/sbxvq/">Course Materials</a>
 
