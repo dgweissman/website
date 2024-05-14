@@ -81,12 +81,12 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "dweissman@fas.harvard.edu"
+email = "dweissman@csudh.edu"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "William James Hall 33 Kirkland St.", city = "Cambridge", region = "MA", postcode = "02318", country = "United States", country_code = "US"}
+address = {street = "1000 Victoria St.", city = "Carson", region = "CA", postcode = "90747", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -117,7 +117,7 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "headshot2.jpg"
+sharing_image = "headshot4.jpg"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "dgweissman"
