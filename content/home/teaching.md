@@ -7,7 +7,7 @@ As a secondary science and substitute teacher, a college Psychology instructor a
 
 ## Courses: 
 ### CSU Dominguez Hills
-- PSY 351: Psychology of the Adolescent Experience (Spring 2024)
+- PSY 351: Psychology of the Adolescent Experience (Spring, Fall 2024)
 
   Course Materials:
   <a href="https://lor.instructure.com/resources/1a9eeca4aef041a88d7b6534398880a6?shared">Online</a>,
