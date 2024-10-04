@@ -6,7 +6,7 @@ title: Publications
 
 2. Weissman, D. G., Vartiainen, H. I., Nook, E. C., Lambert, H. K., Sasse, S. F., Somerville, L. H., McLaughlin, K. A. (in press). Perceptual sensitivity to labeling stereotyped emotion expressions: Associations with age and subclinical psychopathology symptoms from childhood through early adulthood. Emotion.  https://doi.org/10.31234/osf.io/vmqhe
 
-3. Williams, C. M., Weissman, D. G., Mallard, T., McLaughlin, K. A., PhD, & Harden, K. P. (2024). Genetic associations with brain structure are not correlated with individual and state-level economic differences. Developmental Cognitive Neuroscience. https://doi.org/10.31234/osf.io/85frw
+3. Williams, C. M., Weissman, D. G., Mallard, T., McLaughlin, K. A., PhD, & Harden, K. P. (2024). Genetic associations with brain structure are not correlated with individual and state-level economic differences. Developmental Cognitive Neuroscience. https://doi.org/10.1016/j.dcn.2024.101455
 {{% staticref "files/dcn24.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 4. Hastings, P. D., Miller, J. G., Weissman, D. G., Hodge, R. T., Robins, R. W., Carlo, G., & Guyer, A. E. (2024). Parasympathetic regulation and support from family and friends predict prosocial development in US Mexican-origin adolescents. Developmental Psychology. https://doi.org/10.1037/dev0001780
