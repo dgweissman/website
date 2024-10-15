@@ -50,12 +50,11 @@ subtitle = ""
 
 2. Weissman, D. G., Hatzenbuehler, M. L., Cikara, M., Barch, D. M., McLaughlin, K. A. (2023) State-level macro-economic factors moderate the association of low income with brain structure and mental health in U.S. children. Nature Communications. 14(1), 2085. https://doi.org/10.1038/s41467-023-37778-1 {{% staticref "files/nc23.pdf" "newtab" %}}pdf{{% /staticref %}}
 
-3. Weissman, D. G., Rosen, M. L., Lengua, L. J., Sambrook, K. A., Sheridan, M. A., & McLaughlin, K. A. (2022) Exposure to violence as an environmental pathway linking low socioeconomic status with altered neural processing of threat and adolescent psychopathology. Journal of Cognitive Neuroscience. 34(10), 1892-1905. https://doi.org/10.1162/jocn_a_01825 {{% staticref "files/jocn2022.pdf" "newtab" %}}pdf{{% /staticref %}}
+3. Weissman, D. G., Baum, G., Sanders, A., Rosen, M. L., Barch, D., McLaughlin, K. A., & Somerville, L. (2023). Family income is not significantly associated with T1w/T2w ratio in the Human Connectome Project in Development. Imaging Neuroscience. https://doi.org/10.1162/imag_a_00021 {{% staticref "files/in23.pdf" "newtab" %}}pdf{{% /staticref %}}
 
-4. Weissman, D. G. (2021). Stimulus and response: Advancing theoretical rigor in early adversity research. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging. 6, 673-675. https://doi.org/10.1016/j.bpsc.2021.03.012
+4. Weissman, D. G., Rosen, M. L., Lengua, L. J., Sambrook, K. A., Sheridan, M. A., & McLaughlin, K. A. (2022) Exposure to violence as an environmental pathway linking low socioeconomic status with altered neural processing of threat and adolescent psychopathology. Journal of Cognitive Neuroscience. 34(10), 1892-1905. https://doi.org/10.1162/jocn_a_01825 {{% staticref "files/jocn2022.pdf" "newtab" %}}pdf{{% /staticref %}}
+
+5. Weissman, D. G. (2021). Stimulus and response: Advancing theoretical rigor in early adversity research. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging. 6, 673-675. https://doi.org/10.1016/j.bpsc.2021.03.012
 {{% staticref "files/bp_cnni2021.pdf" "newtab" %}}pdf{{% /staticref %}}
-
-5. Weissman, D. G., Rodman, A. M., Rosen, M. L., Kasparek, S. W., Mayes, M., Sheridan, M., Lengua, L., Meltzoff, A. N., & McLaughlin, K. A. (2021). Contributions of emotion regulation and brain structure and function to adolescent internalizing problems and stress vulnerability during the COVID-19 pandemic: A longitudinal study. Biological Psychiatry: Global Open Science. https://doi.org/10.1016/j.bpsgos.2021.06.001
-{{% staticref "files/bpgos2021.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 [full list of publications]({{< ref "/publication/_index.md" >}})
