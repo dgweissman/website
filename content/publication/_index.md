@@ -2,7 +2,7 @@
 title: Publications
 ---
 
-1. Weissman, D. G. Rubbani, S. DeCross, S. N., Kasparek, S. W., McLaughlin, K. A. (in press). Granularity of emotions in brain and behavior and resilience to childhood violence exposure. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging. https://doi.org/10.31234/osf.io/ywnb4
+1. Weissman, D. G. Rubbani, S. DeCross, S. N., Kasparek, S. W., McLaughlin, K. A. (2025). Granularity of emotions in brain and behavior and resilience to childhood violence exposure. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging. https://doi.org/10.1016/j.bpsc.2025.05.012
 
 2. Her, H., Ugarte, E., Weissman, D. G., Robins, R. W., Guyer, A.E., Hastings, P. D. (2024) Warm parenting throughout adolescence predicts basal parasympathetic activity among Mexican-origin youths. Developmental Psychobiology. https://doi.org/10.1002/dev.70012 {{% staticref "files/DevPsychobioHer2024.pdf" "newtab" %}}pdf{{% /staticref %}}
 
