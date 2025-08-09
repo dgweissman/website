@@ -45,7 +45,7 @@ subtitle = ""
  css_class = ""
 +++
 
-1. Weissman, D. G. Rubbani, S. DeCross, S. N., Kasparek, S. W., McLaughlin, K. A. (2025). Granularity of emotions in brain and behavior and resilience to childhood violence exposure. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging. https://doi.org/10.1016/j.bpsc.2025.05.012
+1. Weissman, D. G. Rubbani, S. DeCross, S. N., Kasparek, S. W., McLaughlin, K. A. (2025). Granularity of emotions in brain and behavior and resilience to childhood violence exposure. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging. https://doi.org/10.1016/j.bpsc.2025.05.012 {{% staticref "files/bpcnnni25.pdf" "newtab" %}}pdf{{% /staticref %}}
    
 2. Weissman, D. G., Vartiainen, H. I., Nook, E. C., Lambert, H. K., Sasse, S. F., Somerville, L. H., McLaughlin, K. A. (2024). Perceptual sensitivity to labeling stereotyped emotion expressions: Associations with age and subclinical psychopathology symptoms from childhood through early adulthood. Emotion.  https://doi.org/10.1037/emo0001441
 {{% staticref "files/emo24.pdf" "newtab" %}}pdf{{% /staticref %}}
