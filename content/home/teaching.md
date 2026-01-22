@@ -17,7 +17,7 @@ As a secondary science and substitute teacher, a college Psychology instructor a
   <a href="https://lor.instructure.com/resources/983f9f106c7c491999f1e4c5dd6b81d5?shared">Course Materials</a>
 
 -PSY 327: The Science of Emotions (Fall 2025)
-  <a href="https://lor.instructure.com/resources/d335541642ce423d95cedf9601a2c1e2">Course
+  <a href="https://lor.instructure.com/resources/d335541642ce423d95cedf9601a2c1e2">Course Materials</a>
 
 ### Mount Tamalpais College
 - Psychology 255: Child Growth and Development (Spring 2023)
