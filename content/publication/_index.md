@@ -2,7 +2,8 @@
 title: Publications
 ---
 
-1. Asgarizadeh, A., Tahan, M., Ebrahimi, F., Mazaheri, N., Weissman, D. G, & Dixon-Gordon, K. (in press). Emotion-Specific Regulation and Adolescent Psychosocial Dysfunction: A Person-Centered LASSO Approach. Scientific Reports. https://doi.org/10.13140/RG.2.2.26420.51844
+1. Asgarizadeh, A., Tahan, M., Ebrahimi, F., Mazaheri, N., Weissman, D. G, & Dixon-Gordon, K. (2026). Emotion-Specific Regulation and Adolescent Psychosocial Dysfunction: A Person-Centered LASSO Approach. Scientific Reports. https://doi.org/10.13140/RG.2.2.26420.51844
+{{% staticref "files/sr26.pdf" "newtab" %}}pdf{{% /staticref %}}
 
 2. Weissman, D. G. Rubbani, S. DeCross, S. N., Kasparek, S. W., McLaughlin, K. A. (2025). Granularity of emotions in brain and behavior and resilience to childhood violence exposure. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging. https://doi.org/10.1016/j.bpsc.2025.05.012 {{% staticref "files/bpcnnni25.pdf" "newtab" %}}pdf{{% /staticref %}}
 
